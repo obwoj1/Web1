@@ -1,11 +1,11 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "title": "Html,Css,Js",
+    "imageSrc": "skills/htcsjs.png"
   },
   {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "title": "Node",
+    "imageSrc": "skills/node.png"
   },
   {
     "title": "React",
@@ -17,7 +17,7 @@
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "Swift",
+    "imageSrc": "skills/swift.png"
   }
 ]
