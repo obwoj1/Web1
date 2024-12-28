@@ -17,31 +17,39 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Fullstack Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                I'm a Fullstack Developer with experience in building responsive
+                and optimized web applications. Proficient in both frontend
+                technologies like React and backend frameworks such as Node.js,
+                I specialize in creating seamless user experiences and robust
+                server-side logic.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              {/* <h3>Backend Developer</h3> */}
+              <h3>iOS Developer</h3>
               <p>
-                {/* I have experience developing fast and optimised back-end systems
-                and APIs */}
+                I'm an iOS Developer with experience in building intuitive and
+                user-friendly mobile applications. Proficient in Swift and
+                Objective-C, I focus on creating seamless user experiences and
+                integrating with RESTful APIs to enhance app functionality.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
+            <img src={getImageUrl("about/serverIcon.png")} alt="Data icon" />
             <div className={styles.aboutItemText}>
-              {/* <h3>UI Designer</h3>
+              <h3>Data Analyst / Visualization Specialist</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
-              </p> */}
+                As a Data Analyst, I specialize in transforming complex data
+                sets into actionable insights. Proficient in tools like Python,
+                R, and Tableau, I create compelling visualizations that help
+                stakeholders make informed decisions based on data-driven
+                strategies.
+              </p>
             </div>
           </li>
         </ul>
