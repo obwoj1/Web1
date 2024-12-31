@@ -1,17 +1,19 @@
 [
   {
-    "title": "Statistics",
-    "imageSrc": "projects/project.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus nec nunc tincidunt tincidunt. Nullam nec purus nec nunc tincidunt tincidunt. Nullam nec purus nec nunc tincidunt tincidunt.",
-    "skills": ["python"],
-    "demo": "https://www.example.com",
+    "title": "Crypto Tracker",
+    "imageSrc": "projects/crypto.png",
+    "description": "Developed a Python-based Personal Finance Tracker using Pandas to import, categorize, and analyze transactions,visualize spending patterns, and generate summary reports..",
+
+    
+    "skills": ["python, pandas, react, seaborn"],
+    "demo": "https://fantastic-licorice-f19da0.netlify.app/",
     "source": "https://www.github.com"
   },
   {
-    "title": "Blackjack",
-    "imageSrc": "projects/project.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus nec nunc tincidunt tincidunt. Nullam nec purus nec nunc tincidunt tincidunt. Nullam nec purus nec nunc tincidunt tincidunt.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "AI Image Analyzer",
+    "imageSrc": "projects/aimage.png",
+    "description": " Developed an AI image analayzer utilizing react for the frontend and Next Jsor the backend integrating the Open AI API for the image processing. Created a dynamic, user-friendly interface with real time image analysis and visual feedback.",
+    "skills": ["React", "Open AI APi", "Node.Js", "MongoDB"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
