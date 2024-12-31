@@ -6,6 +6,18 @@
     "endDate": "Present",
     "experiences": ["Employed Python and R for statistical testing and feature encoding on demographic data"],
     "imageSrc": "history/i2dsr.png"
-  }
+  },
   
+  {
+    "role": "CO Founder",
+    "organisation": "DSA Quest",
+    "startDate": "September, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Leading the development of an app aimed at helping students learn Data Structures and Algorithms (DSA)",
+      "Collaborating with educators to create effective learning materials",
+      "Managing a team of developers and designers to build a user-friendly interface"
+    ],
+    "imageSrc": "history/27277.png"
+  }
 ]
