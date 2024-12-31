@@ -20,7 +20,7 @@
   {
     "title": "Sentiment Analysis",
     "imageSrc": "projects/project.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus nec nunc tincidunt tincidunt. Nullam nec purus nec nunc tincidunt tincidunt. Nullam nec purus nec nunc tincidunt tincidunt.",
+    "description": "Developed a pyhton-based sentiment analysis tool using NLP techniques, analying twitter data to classify posts and visualizesentiment trends for actionable insights.",
     "skills": ["python", "nltk", "pandas", "numpy", "scikit-learn"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
